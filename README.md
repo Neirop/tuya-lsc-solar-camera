@@ -1,6 +1,6 @@
 # Tuya LSC Outdoor Solar Camera
 
-An Home Assistant custom integration fixing LSC Outdoor Solar Camera. See [issue](https://github.com/home-assistant/core/issues/132844).
+An Home Assistant custom Tuya integration fixing LSC Outdoor Solar Camera support. See [issue](https://github.com/home-assistant/core/issues/132844).
 
 Note: this integration is specific for LSC Outdoor Solar Camera and other cameras will probably not work with this integration. The official Tuya integration, which can coexist, should be used for other devices. 
 
